@@ -26,7 +26,7 @@ Evaluate the performance of the movie recommendation model using appropriate eva
 Once the model has been developed and evaluated, deploy it to make movie recommendations accessible to users. This could involve integrating the model into a web application using streamlit app and provides accurate and relevant movie recommendations.
 
 **Conclusion**
-By following these steps, you will create a movie recommender system that analyzes a movie dataset, cleans and preprocesses the data, selects relevant features, builds a recommendation model, evaluates its performance, and deploys it for usage. This system will enable users to receive personalized movie recommendations based on their preferences and enhance their movie-watching experience.
+This system will enable users to receive personalized movie recommendations based on their preferences and enhance their movie-watching experience.
 
 
 
